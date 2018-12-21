@@ -23,6 +23,6 @@ spec:
         - name: STORAGE_TYPE
           value: elasticsearch
         - name: ES_HOSTS
-          value: http://10.0.255.78:9200
+          value: http://51.141.15.123:9200
         - name: ZIPKIN_LOG_LEVEL
           value: DEBUG
